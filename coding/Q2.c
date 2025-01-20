@@ -17,4 +17,5 @@ int main()
             }
         printf("\n");
      }
+    reurn 0;
 }
