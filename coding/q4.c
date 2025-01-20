@@ -19,7 +19,7 @@ int main()
         printf("Invalid input! Please enter an alphabet.\n");
     }
 
-    return 0;
+    
 }
 
 
