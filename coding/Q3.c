@@ -23,5 +23,5 @@ if(sellprice>costprice)
 }else{
     printf("no profit or loss\n");
 }
-
+return 0;
 } 
